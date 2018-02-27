@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\bin\Mauritius-Wildlife.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\bin\Mauritius-Wildlife.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\bin\Mauritius-Wildlife.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\obj\Debug\Mauritius_Wildlife.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\obj\Debug\Mauritius-Wildlife.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\obj\Debug\Mauritius-Wildlife.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\obj\Debug\Mauritius-Wildlife.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\obj\Debug\Mauritius-Wildlife.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\bin\MySql.Data.DLL
+C:\Users\User\Documents\Visual Studio 2012\Projects\Mauritius-Wildlife\Mauritius-Wildlife\obj\Debug\Mauritius-Wildlife.vbprojResolveAssemblyReference.cache
