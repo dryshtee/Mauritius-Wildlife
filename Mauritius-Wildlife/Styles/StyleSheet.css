@@ -1,1 +1,283 @@
+﻿body {
+    font-family:'Lucida Bright', Tahoma,Verdana,Arial,sans-serif;
+    background:#c1effa;
+}
 
+#wrapper {
+    max-width:900px;
+    min-width:750px;
+    margin:0 auto;
+    padding: 10px;
+    border: 5px solid #dedede;
+    background-color:#fff;
+}
+
+#parent {
+    max-width:475px;
+    min-width:425px;
+    margin-top:5px;
+    padding: 10px;
+    border: 2px solid #dedede;
+    background-color:#fff;
+    float:left;
+}
+
+#parent1 {
+    max-width:400px;
+    min-width:300px;
+    margin-top:5px;
+    padding: 10px;
+    border: 2px solid #dedede;
+    background-color:#fff;
+    float:right;
+    width: 360px;
+}
+
+#Topbar {
+    height:100px;
+    border: 3px solid #E3E3E3;
+    background-image:url(../images/Topbar.jpg);
+    background-repeat: no-repeat;
+    background-size: 900px 100px;
+}
+
+#banner {
+    height:200px;
+    margin-top:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#imgshow {
+    width: 895px;
+}
+
+#imgaboutus {
+    width: 895px;
+}
+
+#content {
+    width:900px;
+    margin: 20px 0 20px 0;
+    border: 3px solid #E3E3E3;
+}
+
+#up, #up1, #up2, #up3, #up4, #up5, #up6{
+    text-align:center;
+}
+
+#footer {
+    clear: both;
+    width: auto;
+    height: 20px;
+    background-image:url(../images/banner.jpg);
+    color: #fff;
+    text-align:center;
+    margin-top:5px;
+}
+
+#sidebar {
+    max-width:400px;
+    min-width:350px;
+    height: 775px;
+    float:right;
+    width: 345px;
+    margin-left: 0px;
+}
+
+#content {
+    max-width:500px;
+    min-width:450px;
+    height: 950px; 
+    float: left;
+}
+
+#contentCatamaran {
+    max-width:900px;
+    min-width:750px;
+    height:800px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#wrap	{
+	width: 100%; /* Spans the width of the page */
+	height: 55px; 
+	margin-top: 5px;    
+	z-index: 99; /* Makes sure that your menu remains on top of other page elements */
+	position: relative; 
+	background-image:url(../images/banner.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    border: 3px solid #E3E3E3;
+}
+
+.navbar	{
+	height: 55px;
+    padding: 0;
+	margin: 0;
+	position: absolute; /* Ensures that the menu doesn’t affect other elements */
+	border-right: 2px solid #54879d; 
+    width:900px;
+}
+
+.navbar li 	{
+	height: auto;
+	width: 180px;  /* Each menu item is 150px wide */
+	float: left;  /* This lines up the menu items horizontally */
+	text-align: center;  /* All text is placed in the center of the box */
+	list-style: none;  /* Removes the default styling (bullets) for the list */
+	font: normal bold 16px/1.2em Arial, Verdana, Helvetica;  
+	padding: 0;
+	margin: 0;
+	background-image:url(../images/banner.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.navbar a {							
+	padding: 18px 0;  /* Adds a padding on the top and bottom so the text appears centered vertically */
+	border-left: 1px solid #54879d; /* Creates a border in a slightly lighter shade of blue than the background.  Combined with the right border, this creates a nice effect. */
+	border-right: 1px solid #1f5065; /* Creates a border in a slightly darker shade of blue than the background.  Combined with the left border, this creates a nice effect. */
+	text-decoration: none;  /* Removes the default hyperlink styling. */
+	color: white; /* Text color is white */
+	display: block;
+}
+.navbar li:hover, a:hover {
+    background-color: #54879d;
+} 
+
+.navbar li ul {
+	display: none;  /* Hides the drop-down menu */
+	height: auto;									
+	margin: 0; /* Aligns drop-down box underneath the menu item */
+	padding: 0; /* Aligns drop-down box underneath the menu item */			
+}				
+
+.navbar li:hover ul {
+    display: block; /* Displays the drop-down box when the menu item is hovered over */
+}
+
+.navbar li ul li {
+    background-color: #54879d;
+} 
+
+.navbar li ul li a {
+	border-left: 1px solid #1f5065; 
+	border-right: 1px solid #1f5065; 
+	border-top: 1px solid #74a3b7; 
+	border-bottom: 1px solid #1f5065; 
+}
+				
+.navbar li ul li a:hover {
+    background-color: #366b82;
+}
+
+#contentDolhpin {
+    max-width:900px;
+    min-width:750px;
+    height:800px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentSafari {
+    max-width:900px;
+    min-width:750px;
+    height:950px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentSightseeing {
+    max-width:900px;
+    min-width:750px;
+    height:1050px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentLuxury {
+    max-width:900px;
+    min-width:750px;
+    height:1000px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentHiking {
+    max-width:900px;
+    min-width:750px;
+    height:1050px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentDolphin {
+    max-width:900px;
+    min-width:750px;
+    height:900px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentActivities{
+    max-width:900px;
+    min-width:750px;
+    height:1000px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentAbout{
+    max-width:900px;
+    min-width:750px;
+    height:750px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#Admin {
+    max-width:900px;
+    min-width:750px;
+    height:300px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+    background-color:#97cadb;
+}
+
+#contentcontact{
+    max-width:900px;
+    min-width:750px;
+    height:450px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#container{
+    max-width:900px;
+    min-width:750px;
+    height:185px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
+
+#contentbooking{
+    max-width:900px;
+    min-width:750px;
+    max-height:25000px;
+    margin-top:5px;
+    margin-bottom:5px;
+    border: 3px solid #E3E3E3;
+}
